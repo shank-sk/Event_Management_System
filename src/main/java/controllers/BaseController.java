@@ -1,0 +1,2 @@
+public class BaseController {
+}
